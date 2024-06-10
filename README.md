@@ -2,5 +2,5 @@
 Jogo de Jokenpô em Java utilizando socket com TCP/IP.
 
 ## Integrantes 
-* Larissa Gonçalves de Oliveira Silva - RA: 1252211043
+* Larissa Gonçalves de Oliveira Silva - RA: 125221104373
 * Hiago da Silva Lins Gonçalves - RA: 12524130781
